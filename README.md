@@ -2,10 +2,10 @@
 
 🚀 Founder of **MiahAI** | 🎓 Harvard AI Graduate Program | Software + Hardware Engineer  
 
-I’m building **MiahAI – Your AI Learning Partner**, a modular ASP.NET Core MVC + C# web app designed for personalized learning with memory-driven intelligence.  
+I’m building **MiahAI – Your AI Learning Partner**, a modular ASP.NET Core MVC + C# web app designed for personalized learning with memory driven intelligence.  
 
 ### 🌟 Featured Project
-🔹 **MiahAI** — Production-ready AI assistant web app built with ASP.NET Core MVC, EF Core, and modular AI reasoning.
+🔹 **MiahAI** — Production ready AI assistant web app built with ASP.NET Core MVC, EF Core, and modular AI reasoning.
 
 
 ### 🛠️ Tech Stack
