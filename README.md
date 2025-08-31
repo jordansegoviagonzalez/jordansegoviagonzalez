@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Jordan Segovia
+# Hey, I’m Jordan Segovia
 
 🚀 Founder of **MiahAI** | 🎓 Harvard AI Graduate Program | Software + Hardware Engineer  
 
