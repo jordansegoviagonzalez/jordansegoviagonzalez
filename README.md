@@ -5,7 +5,7 @@
 I’m building **MiahAI – Your AI Learning Partner**, a modular ASP.NET Core MVC + C# web app designed for personalized learning with memory-driven intelligence.  
 
 ### 🌟 Featured Project
-🔹 **MiahAI** — Production-ready AI assistant web app built with ASP.NET Core MVC, EF Core, and modular AI reasoning. *(Private repository)*
+🔹 **MiahAI** — Production-ready AI assistant web app built with ASP.NET Core MVC, EF Core, and modular AI reasoning.
 
 
 ### 🛠️ Tech Stack
