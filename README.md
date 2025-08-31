@@ -15,8 +15,8 @@ I’m building **MiahAI – Your AI Learning Partner**, a modular ASP.NET Core M
 - **AI/ML:** OpenAI, Custom NLP pipelines (coming soon)  
 
 ### 🎯 What I’m working on
-- Completing my Harvard AI Graduate Certificate  
+- Completing my Harvard AI Graduate Diploma
 - Architecting **MiahAI** with modular reasoning and persistent memory  
-- Preparing for Microsoft Azure AI Engineer certification  
+
 
 📬 Reach me on [LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://yourwebsite.com)
