@@ -7,16 +7,16 @@ I build **production grade AI systems** end to end, from model reasoning and dat
 ---
 
 ## 🌟 Featured Project
-**MiahAI** — Production-grade AI assistant web app  
+**MiahAI** — Production grade AI assistant web app  
 **Stack:** ASP.NET Core MVC · EF Core · C# · Python · SQL · Modular reasoning & persistent memory  
-**Why it matters:** opinionated architecture for maintainable AI assistants (clean separation of reasoning, memory, tools, and UI), with enterprise-ready patterns.
+**Why it matters:** opinionated architecture for maintainable AI assistants (clean separation of reasoning, memory, tools, and UI), with enterprise ready patterns.
 
 - Modular “reasoning units” with composable pipelines  
 - Persistent memory layer (EF Core) with clean repository patterns  
 - Secure MVC app structure, DI throughout, async/await correctness  
 - Ready for containerization & CI/CD
 
-Repo: _[add link when public]_ • Demo: _[add link if available]_
+Repo:TBA • Demo:TBA
 
 ---
 
@@ -49,14 +49,14 @@ Apple Silicon (M4 Pro) for high-perf local training/inference
 
 ## 🔒 Public Ownership Notice
 Hash-only proof-of-existence for BM Private AI is published here:  
-**Public page:** _[add your GitHub Pages URL once live]_  
+**Public page:**  https://github.com/jordansegoviagonzalez/bm-private-ai-proof 
 (Contains SHA-256 of a sealed private archive; no code or secrets.)
 
 ---
 
 ## 📬 Connect
-- **LinkedIn:** https://linkedin.com/in/yourprofile  
-- **Portfolio:** https://yourwebsite.com  
-- **Email:** legal@bmprivate.ai
+- **LinkedIn:** www.linkedin.com/in/jordansegoviaedIn
+- **Portfolio:**   
+- **Email:** segoviajordan91@gmail.com
 
 > Always up for serious, high-impact AI work. If you care about clean architecture, privacy, and real-world scale, let’s talk.
