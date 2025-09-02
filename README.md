@@ -1,22 +1,62 @@
-# Hey, I’m Jordan Segovia
+# Hey, I’m Jordan Segovia Gonzalez
 
-🚀 Founder of **MiahAI** | 🎓 Harvard AI Graduate Program | Software + Hardware Engineer  
+Founder, **BM Private AI (Bright Minds Private AI)** • Harvard AI Graduate Program (in progress) • Software + Hardware Engineer
 
-I’m building **MiahAI – Your AI Learning Partner**, a modular ASP.NET Core MVC + C# web app designed for personalized learning with memory driven intelligence.  
+I build **production-grade AI systems** end-to-end — from model reasoning and data pipelines to secure deployment and ops. Currently pursuing Harvard’s AI Graduate Program while shipping real products.
 
-### 🌟 Featured Project
-🔹 **MiahAI** — Production ready AI assistant web app built with ASP.NET Core MVC, EF Core, and modular AI reasoning.
+---
 
+## 🌟 Featured Project
+**MiahAI** — Production-grade AI assistant web app  
+**Stack:** ASP.NET Core MVC · EF Core · C# · Python · SQL · Modular reasoning & persistent memory  
+**Why it matters:** opinionated architecture for maintainable AI assistants (clean separation of reasoning, memory, tools, and UI), with enterprise-ready patterns.
 
-### 🛠️ Tech Stack
-- **Languages:** C#, Python, JavaScript, SQL  
-- **Frameworks:** ASP.NET Core MVC, EF Core, Node.js  
-- **Tools:** Git, Azure, Docker  
-- **AI/ML:** OpenAI, Custom NLP pipelines (coming soon)  
+- Modular “reasoning units” with composable pipelines  
+- Persistent memory layer (EF Core) with clean repository patterns  
+- Secure MVC app structure, DI throughout, async/await correctness  
+- Ready for containerization & CI/CD
 
-### 🎯 What I’m working on
-- Completing my Harvard AI Graduate Diploma
-- Architecting **MiahAI** with modular reasoning and persistent memory  
+Repo: _[add link when public]_ • Demo: _[add link if available]_
 
+---
 
-📬 Reach me on [LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://yourwebsite.com)
+## 🛠️ Technical Stack
+
+**Languages & Frameworks**  
+C#, C++, Python, JavaScript, **ASP.NET Core MVC**, SQL, HTML/CSS, CUDA
+
+**AI / ML**  
+Machine Learning, NLP, Neural Networks, Reinforcement Learning
+
+**CS Core**  
+Algorithms, Data Structures, Graph/Search, Bayesian Networks
+
+**Software Engineering**  
+Software Architecture, OOP, TDD, Agile, Dapper ORM, Debugging
+
+**Tools & Environments**  
+Git/GitHub, VS Code, JetBrains Rider, PowerShell/CLI, Microsoft Azure  
+Apple Silicon (M4 Pro) for high-perf local training/inference
+
+---
+
+## 🚧 What I’m building now
+- **BM Private AI** — private foundation + domain models for enterprises  
+- **MiahAI** — shipping a hardened, modular AI assistant with persistent memory for education 
+- Completing **Harvard AI Graduate Program**
+
+---
+
+## 🔒 Public Ownership Notice
+Hash-only proof-of-existence for BM Private AI is published here:  
+**Public page:** _[add your GitHub Pages URL once live]_  
+(Contains SHA-256 of a sealed private archive; no code or secrets.)
+
+---
+
+## 📬 Connect
+- **LinkedIn:** https://linkedin.com/in/yourprofile  
+- **Portfolio:** https://yourwebsite.com  
+- **Email:** legal@bmprivate.ai
+
+> Always up for serious, high-impact AI work. If you care about clean architecture, privacy, and real-world scale, let’s talk.
