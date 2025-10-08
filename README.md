@@ -1,6 +1,6 @@
 # Hey, I’m Jordan Segovia Gonzalez
 
-Founder, **BM Private AI (Bright Minds Private AI)** • Harvard AI Student • Software + Hardware Engineer
+Founder, **BM Private AI (Bright Minds Private AI)** • Software + Hardware Engineer
 
 I build **production grade AI systems** end to end, from model reasoning and data pipelines to secure deployment and ops. Currently pursuing Harvard’s AI Graduate Program while shipping real products.
 
@@ -59,4 +59,4 @@ Hash-only proof-of-existence for BM Private AI is published here:
 - **Portfolio:**   
 - **Email:** segoviajordan91@gmail.com
 
-> Always up for serious, high-impact AI work. If you care about clean architecture, privacy, and real-world scale, let’s talk.
+> Always up for serious, high-impact work. If you care about clean architecture, privacy, and real world scale, let’s talk.
