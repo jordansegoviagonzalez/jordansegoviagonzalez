@@ -4,22 +4,6 @@ Founder, **BM Private AI (Bright Minds Private AI)** • Software + Hardware Eng
 
 I build **production grade AI systems** end to end, from model reasoning and data pipelines to secure deployment and ops. Currently pursuing Harvard’s AI Graduate Program while shipping real products.
 
----
-
-## 🌟 Featured Project
-**MiahAI** — Production grade AI assistant web app  
-**Stack:** ASP.NET Core MVC · EF Core · C# · Python · SQL · Modular reasoning & persistent memory  
-**Why it matters:** opinionated architecture for maintainable AI assistants (clean separation of reasoning, memory, tools, and UI), with enterprise ready patterns.
-
-- Modular “reasoning units” with composable pipelines  
-- Persistent memory layer (EF Core) with clean repository patterns  
-- Secure MVC app structure, DI throughout, async/await correctness  
-- Ready for containerization & CI/CD
-
-Repo:TBA • Demo:TBA
-
----
-
 ## 🛠️ Technical Stack
 
 **Languages & Frameworks**  
