@@ -1,8 +1,6 @@
 # Hey, I’m Jordan Segovia Gonzalez
 
-Founder, **BM Private AI (Bright Minds Private AI)** • Software + Hardware Engineer https://jordansegovia.com
-
-I build **production grade AI systems** end to end, from model reasoning and data pipelines to secure deployment and ops. Currently pursuing Harvard’s AI Graduate Program while shipping production systems.
+Founder, **BM Private AI (Bright Minds Private AI)** • AI/ML Engineer https://jordansegovia.com
 
 ## 🛠️ Technical Stack
 
@@ -21,14 +19,6 @@ Software Architecture, OOP, TDD, Agile, Dapper ORM, Debugging
 **Tools & Environments**  
 Git/GitHub, VS Code, JetBrains Rider, PowerShell/CLI, Microsoft Azure  
 Apple Silicon (M4 Pro) for high-perf local training/inference
-
----
-
-## 🚧 What I’m building now
-- **BM Private AI** — private foundation + domain models for enterprises  
-- **MiahAI** — shipping a hardened, modular AI assistant with persistent memory for education 
-- Completing **Harvard AI Graduate Program**
-
 ---
 
 ## 🔒 Public Ownership Notice
@@ -43,4 +33,3 @@ Hash-only proof-of-existence for BM Private AI is published here:
 - **Portfolio:**   
 - **Email:** segoviajordan91@gmail.com
 
-> Always up for serious, high-impact work. If you care about clean architecture, privacy, and real world scale, let’s talk.
