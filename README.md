@@ -17,8 +17,8 @@ Algorithms, Data Structures, Graph/Search, Bayesian Networks
 Software Architecture, OOP, TDD, Agile, Dapper ORM, Debugging
 
 **Tools & Environments**  
-Git/GitHub, VS Code, JetBrains Rider, Google Colab, PowerShell/CLI, Microsoft Azure  
-Apple Silicon (M4 Pro) for high-perf local training/inference
+Git/GitHub, Visual Studio Code, JetBrains Rider, Google Colab, Jupyter Notebook, PowerShell, Command Line (CLI), 
+Microsoft Azure, Apple Silicon (M4 Pro) for high-performance local training/inference
 ---
 
 ## 🔒 Public Ownership Notice
