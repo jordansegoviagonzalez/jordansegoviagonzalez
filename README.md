@@ -1,3 +1,5 @@
+![project](https://github.com/user-attachments/assets/7fea2fa1-80b1-4fb2-807e-35a0608efc30)
+
 # Hey, I’m Jordan Segovia Gonzalez 
 
 Engineer passionate about clean architecture, performance, and building enterprise scale systems that solve real problems through software and collaboration.
