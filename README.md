@@ -6,6 +6,17 @@ Engineer passionate about clean architecture, performance, and building enterpri
 
 Founder, **BM Private AI (Bright Minds Private AI)** • AI/ML Engineer https://jordansegovia.com
 
+## Engineering Focus
+Clean architecture • performance • reliability • measurable outcomes
+
+| Domain | What I deliver |
+| --- | --- |
+| Backend & APIs | Production REST services, typed contracts (gRPC/Protobuf), validation, and stable integration boundaries. |
+| Data & Persistence | Schema design, migrations, query performance, and reliable persistence for product features. |
+| Data Science & Analytics | EDA, statistical analysis, feature engineering, experiment design, and metrics-driven insights (Python/pandas/NumPy). |
+| Applied AI / ML Systems | LLM-enabled workflows, evaluation harnesses, retrieval + ranking, and model-serving integrations. |
+| Performance / GPU Pipelines | GPU-accelerated data processing + ML with RAPIDS (cuDF/cuML/cuGraph) when throughput matters. |
+
 ## 🛠️ Technical Stack
 
 **Languages & Frameworks**  
