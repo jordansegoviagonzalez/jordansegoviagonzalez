@@ -6,11 +6,8 @@ Engineer passionate about clean architecture, performance, and building enterpri
 
 Founder, **BM Private AI (Bright Minds Private AI)** • AI/ML Engineer https://jordansegovia.com
 
-## Engineering Focus
-Clean architecture • performance • reliability • measurable outcomes
-
-## Engineering Focus
-Clean architecture • performance • reliability • measurable outcomes
+## Engineering Capabilities
+Clean architecture • performance • reliability 
 
 | Category | What I deliver |
 | --- | --- |
