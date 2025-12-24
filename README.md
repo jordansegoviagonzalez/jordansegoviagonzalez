@@ -9,13 +9,19 @@ Founder, **BM Private AI (Bright Minds Private AI)** • AI/ML Engineer https://
 ## Engineering Focus
 Clean architecture • performance • reliability • measurable outcomes
 
-| Domain | What I deliver |
+## Engineering Focus
+Clean architecture • performance • reliability • measurable outcomes
+
+| Category | What I deliver |
 | --- | --- |
 | Backend & APIs | Production REST services, typed contracts (gRPC/Protobuf), validation, and stable integration boundaries. |
+| Full-Stack Delivery | End-to-end features across UI + backend, clean layering, and maintainable integration patterns. |
 | Data & Persistence | Schema design, migrations, query performance, and reliable persistence for product features. |
 | Data Science & Analytics | EDA, statistical analysis, feature engineering, experiment design, and metrics-driven insights (Python/pandas/NumPy). |
 | Applied AI / ML Systems | LLM-enabled workflows, evaluation harnesses, retrieval + ranking, and model-serving integrations. |
 | Performance / GPU Pipelines | GPU-accelerated data processing + ML with RAPIDS (cuDF/cuML/cuGraph) when throughput matters. |
+| Hardware & Systems | External SSD enclosure workflow with SMART health telemetry and safe-eject handling, focused on data integrity, device longevity, and stable disconnect behavior. |
+
 
 ## 🛠️ Technical Stack
 
