@@ -7,7 +7,7 @@ Founder, **BM Private AI (Bright Minds Private AI)** • AI/ML Engineer https://
 ## 🛠️ Technical Stack
 
 **Languages & Frameworks**  
-C#, C++, C, Python, JavaScript, APIs, ASP.NET Core MVC, SQL, HTML/CSS, CUDA, Apache HTTP Server (Apache 2.0)
+C#, C++, C, Python, JavaScript, APIs, ASP.NET Core MVC, SQL, HTML/CSS, CUDA, Apache
 
 **AI / ML**  
 Machine Learning, NLP, Neural Networks, Reinforcement Learning, Deep Reinforcement Learning, scikit-learn, TensorFlow, PyTorch
