@@ -23,7 +23,7 @@ Software Architecture, OOP, TDD, Agile, Dapper ORM, Debugging
 **Tools & Environments**  
 Git/GitHub, Visual Studio Code, JetBrains Rider, Google Colab, Jupyter Notebook, PowerShell, Command Line (CLI), 
 Microsoft Azure, Apple Silicon (M4 Pro) for high-performance local training/inference
----
+
 
 ## 🔒 Public Ownership Notice
 Hash-only proof-of-existence for BM Private AI is published here:  
