@@ -1,4 +1,5 @@
-![project](https://github.com/user-attachments/assets/7fea2fa1-80b1-4fb2-807e-35a0608efc30)
+![project (1)](https://github.com/user-attachments/assets/669eee9c-87aa-4551-9923-ef9b943c4594)
+
 
 # Hey, I’m Jordan Segovia Gonzalez 
 
