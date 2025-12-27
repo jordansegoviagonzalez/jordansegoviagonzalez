@@ -41,16 +41,8 @@ Software Architecture, OOP, TDD, Agile, Dapper ORM, Debugging
 Git/GitHub, Visual Studio Code, JetBrains Rider, Google Colab, Jupyter Notebook, PowerShell, Command Line (CLI), 
 Microsoft Azure, Apple Silicon (M4 Pro) for high-performance local training/inference
 
-
-## 🔒 Public Ownership Notice
-Hash-only proof-of-existence for BM Private AI is published here:  
-**Public page:**  https://github.com/jordansegoviagonzalez/bm-private-ai-proof 
-(Contains SHA-256 of a sealed private archive; no code or secrets.)
-
----
-
 ## 📬 Connect
 - **LinkedIn:** www.linkedin.com/in/jordansegoviaedIn
-- **Portfolio:**   
+- **Portfolio:** jordansegovia.com  
 - **Email:** segoviajordan91@gmail.com
 
