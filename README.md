@@ -43,6 +43,6 @@ Microsoft Azure, Apple Silicon (M4 Pro) for high-performance local training/infe
 
 ## 📬 Connect
 - **LinkedIn:** www.linkedin.com/in/jordansegoviaedIn
-- **Portfolio:** jordansegovia.com  
+- **Portfolio:** https://jordansegovia.com 
 - **Email:** segoviajordan91@gmail.com
 
