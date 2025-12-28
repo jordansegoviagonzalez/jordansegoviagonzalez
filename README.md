@@ -3,7 +3,7 @@
 
 # Hey, I’m Jordan Segovia Gonzalez 
 
-Engineer passionate about clean architecture, performance, and building enterprise scale systems that solve real problems through software and collaboration.
+Engineer passionate about clean architecture, performance, and building enterprise scale systems that solve real problems through software, hardware and team collaboration.
 
 Founder, **BM Private AI (Bright Minds Private AI)** • AI/ML Engineer https://jordansegovia.com
 
