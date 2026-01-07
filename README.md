@@ -14,6 +14,10 @@ Sophia - A standalone 1.5B parameter LLM
 
 <img width="1705" height="866" alt="Sophia-AI" src="https://github.com/user-attachments/assets/9425cfbc-0517-4c76-a19e-bb0d415ac45e" />
 
+ Triphony AI - Autonomous Cinematic Video Generator
+
+ ![triphony-demo1](https://github.com/user-attachments/assets/650fa4ae-0de4-4aad-9cc9-373e949e32af)
+
 
 
 ## Engineering Capabilities
