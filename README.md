@@ -19,6 +19,7 @@ Sophia - A standalone 1.5B parameter LLM
 
  ![triphony-demo1](https://github.com/user-attachments/assets/650fa4ae-0de4-4aad-9cc9-373e949e32af) 
 
+
 ## Engineering Capabilities
 Clean architecture • performance • reliability 
 
