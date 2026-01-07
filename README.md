@@ -7,6 +7,15 @@ Engineer passionate about clean architecture, performance, and building enterpri
 
 Founder, **BM Private AI (Bright Minds Private AI)** • AI/ML Engineer https://jordansegovia.com
 
+## Projects
+| --- | --- |
+## Sophia - a standalone LLM, 1.5B parameter neural network
+
+
+<img width="1705" height="866" alt="Sophia-AI" src="https://github.com/user-attachments/assets/9425cfbc-0517-4c76-a19e-bb0d415ac45e" />
+
+
+
 ## Engineering Capabilities
 Clean architecture • performance • reliability 
 
