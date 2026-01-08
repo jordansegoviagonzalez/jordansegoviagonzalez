@@ -19,7 +19,7 @@ Sophia - A standalone 1.5B parameter LLM
 
  ![triphony-demo1](https://github.com/user-attachments/assets/650fa4ae-0de4-4aad-9cc9-373e949e32af) 
 
- MiahAI - Offline Full stack AI for Private Learning
+MiahAI — Offline, Full-Stack AI Platform for Private Learning
 
  <img width="570" height="825" alt="MiahAIprove" src="https://github.com/user-attachments/assets/b260ff55-a4b2-4c86-8e0a-42d6ff12b282" />
 
