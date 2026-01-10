@@ -25,7 +25,8 @@ MiahAI — Offline, Full-Stack AI Platform for Private Learning (Private Repo)
 
 Vizor – Pharmacy Verification Computer Vision System
 
-![Uploading Vizor – Pharmacy Verification Computer Vision System.png…]()
+![ Vizor – Pharmacy Verification Computer Vision System](https://github.com/user-attachments/assets/3d4a5679-4569-42b0-a42d-b5668dd34ae9)
+
 
  
 ## Engineering Capabilities
