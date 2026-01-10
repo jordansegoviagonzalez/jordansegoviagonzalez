@@ -19,7 +19,7 @@ Founder, **BM Private AI (Bright Minds Private AI)** • AI/ML Engineer https://
 
  ![triphony-demo1](https://github.com/user-attachments/assets/650fa4ae-0de4-4aad-9cc9-373e949e32af)
 
-[ Vizor – Pharmacy Verification Computer Vision System](https://github.com/jordansegoviagonzalez/vizor-pharmacy-vision)
+[ Vizor – Pharmacy Verification Computer Vision for Robotics ](https://github.com/jordansegoviagonzalez/vizor-pharmacy-vision)
 
 ![ Vizor – Pharmacy Verification Computer Vision System](https://github.com/user-attachments/assets/3d4a5679-4569-42b0-a42d-b5668dd34ae9)
 
