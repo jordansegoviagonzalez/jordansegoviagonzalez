@@ -17,15 +17,17 @@ Founder, **BM Private AI (Bright Minds Private AI)** • AI/ML Engineer https://
  [Triphony AI - Autonomous Cinematic Video Generator](https://github.com/jordansegoviagonzalez/triphony-ai)
  
 
- ![triphony-demo1](https://github.com/user-attachments/assets/650fa4ae-0de4-4aad-9cc9-373e949e32af) 
+ ![triphony-demo1](https://github.com/user-attachments/assets/650fa4ae-0de4-4aad-9cc9-373e949e32af)
+
+[ Vizor – Pharmacy Verification Computer Vision System](https://github.com/jordansegoviagonzalez/vizor-pharmacy-vision)
+
+![ Vizor – Pharmacy Verification Computer Vision System](https://github.com/user-attachments/assets/3d4a5679-4569-42b0-a42d-b5668dd34ae9)
 
 MiahAI — Offline, Full-Stack AI Platform for Private Learning (Private Repo)
 
  <img width="570" height="825" alt="MiahAIprove" src="https://github.com/user-attachments/assets/b260ff55-a4b2-4c86-8e0a-42d6ff12b282" />
 
-Vizor – Pharmacy Verification Computer Vision System
 
-![ Vizor – Pharmacy Verification Computer Vision System](https://github.com/user-attachments/assets/3d4a5679-4569-42b0-a42d-b5668dd34ae9)
 
 
  
