@@ -1,4 +1,5 @@
-![project (1)](https://github.com/user-attachments/assets/669eee9c-87aa-4551-9923-ef9b943c4594)
+<img width="2048" height="1093" alt="end_to_end_systems_remove_star_bottom" src="https://github.com/user-attachments/assets/568270d6-f3ce-49ec-bbae-16123d81cf89" />
+
 
 
 # Hey, I’m Jordan Segovia Gonzalez 
