@@ -24,8 +24,6 @@ Founder, **BM Private AI (Bright Minds Private AI)** • AI/ML Engineer https://
 <img width="1705" height="866" alt="Sophia-AI" src="https://github.com/user-attachments/assets/b648bd64-84bb-4ad2-842f-5e5614b35473" />
 
 
-<img width="1705" height="866" alt="Sophia-AI" src="https://github.com/user-attachments/assets/9425cfbc-0517-4c76-a19e-bb0d415ac45e" />
-
 MiahAI — Offline, Full-Stack AI Platform for Private Learning (Private Repo)
 
  <img width="570" height="825" alt="MiahAIprove" src="https://github.com/user-attachments/assets/b260ff55-a4b2-4c86-8e0a-42d6ff12b282" />
