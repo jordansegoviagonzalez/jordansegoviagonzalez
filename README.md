@@ -52,21 +52,45 @@ Clean architecture • performance • reliability
 
 ## 🛠️ Technical Stack
 
-**Languages & Frameworks**  
-C#, C++, C, Python, JavaScript, APIs, ASP.NET Core MVC, SQL, HTML/CSS, CUDA, Apache
+### AI / ML Engineering
+- Machine Learning, Deep Learning, Computer Vision, NLP, Reinforcement Learning
+- PyTorch, TensorFlow, scikit-learn, Hugging Face
+- Model Training, Fine-Tuning, Evaluation, Benchmarking, Inference & Optimization
+- CUDA, Apple MPS, ONNX, TensorRT
+- Feature Engineering, Dataset Design, Error Analysis & Model Quality Evaluation
 
-**AI / ML**  
-Machine Learning, NLP, Neural Networks, Reinforcement Learning, Deep Reinforcement Learning, scikit-learn, TensorFlow, PyTorch
+### Generative AI & Agentic Systems
+- LLM Applications, RAG, Agentic Workflows, Tool-Calling & AI Orchestration
+- OpenAI APIs, LangChain, LangGraph, Voice AI / Vogent
+- Prompt & Rubric Evaluation, Golden Solutions, Human-in-the-Loop Workflows
+- Safety Guardrails, Deterministic Routing & Production AI Reliability
 
-**CS Core**  
-Algorithms, Data Structures, Graph/Search, Bayesian Networks
+### Languages
+- Python, C#, C++, JavaScript / TypeScript, SQL, C
 
-**Software Engineering**  
-Software Architecture, OOP, TDD, Agile, Dapper ORM, Debugging
+### Backend & Full-Stack Engineering
+- FastAPI, Flask, ASP.NET Core, React / TypeScript
+- REST APIs, gRPC, Authentication, Background Jobs & Service Integration
+- PostgreSQL, MySQL, SQLite, Redis
+- Software Architecture, OOP, Concurrency, Transactional Workflows
 
-**Tools & Environments**  
-Git/GitHub, Visual Studio Code, JetBrains Rider, Google Colab, Jupyter Notebook, PowerShell, Command Line (CLI), 
-Microsoft Azure, Apple Silicon (M4 Pro) for high-performance local training/inference
+### Cloud, DevOps & Production
+- Microsoft Azure, AWS EC2, Cloudflare
+- Docker, Docker Compose, Kubernetes, Nginx
+- CI/CD, GitHub Actions, Terraform
+- Linux / Unix, DNS, CDN, Reverse Proxies, HTTPS / TLS
+- Production Deployment, Configuration & Infrastructure Debugging
+
+### Reliability, Testing & Observability
+- Structured Logging, Health Checks, Monitoring & Failure Analysis
+- Idempotency, Concurrency Protection, Fail-Closed Design
+- Pytest, MyPy, Ruff, Jest, xUnit
+- Latency Testing, Reliability Testing & Production Debugging
+
+### Computer Science & Systems
+- Algorithms, Data Structures, Graph / Search Algorithms
+- Bayesian Networks, Software Architecture & Distributed Systems
+- C++ Performance Engineering, GPU Computing & Model Serving
 
 ## 📬 Connect
 - **LinkedIn:** www.linkedin.com/in/jordansegoviaedIn
