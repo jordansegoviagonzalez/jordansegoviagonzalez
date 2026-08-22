@@ -35,17 +35,23 @@ MiahAI — Offline, Full-Stack AI Platform for Private Learning (Private Repo)
 
  
 ## Engineering Capabilities
-Clean architecture • performance • reliability 
 
-| Category | What I deliver |
-| --- | --- |
-| Backend & APIs | Production REST services, typed contracts (gRPC,Protobuf), validation, and stable integration boundaries. |
-| Full-Stack Delivery | End to end features across UI & backend, clean layering, and maintainable integration patterns. |
-| Data & Persistence | Schema design, migrations, query performance, and reliable persistence for product features. |
-| Data Science & Analytics | EDA, statistical analysis, feature engineering, experiment design, and metrics driven insights (Python/pandas/NumPy). |
-| AI / ML Systems | LLM features end to end: prompt design, retrieval, evaluations, and model serving, with full ownership from build through production support. |
-| Performance / GPU Pipelines | GPU accelerated data processing & ML with RAPIDS (cuDF/cuML/cuGraph) when throughput matters. |
-| Hardware / Storage Systems | Storage and system reliability for compute workflows: SMART monitoring, safe eject system, power connection stability, and component-level troubleshooting. |
+**Production AI • architecture • performance • reliability**
+
+| Category | What I Deliver |
+|---|---|
+| **AI / ML Engineering** | End-to-end ML systems spanning data preparation, feature engineering, model development, training, evaluation, inference, optimization, and production integration. |
+| **Generative & Agentic AI** | Production LLM, RAG, tool-calling, agentic, conversational, and voice AI systems with deterministic control boundaries, human-in-the-loop workflows, and safety guardrails. |
+| **AI Evaluation & Quality** | Benchmark design, model evaluation, error analysis, hallucination testing, rubric-based evaluation, reliability testing, and measurable quality criteria for AI systems. |
+| **Backend & APIs** | Production REST and gRPC services, typed contracts, validation, authentication, transactional workflows, concurrency protection, and stable integration boundaries. |
+| **Full-Stack Delivery** | End-to-end product features across frontend, backend, APIs, databases, AI services, and infrastructure with maintainable system architecture. |
+| **Data & Persistence** | PostgreSQL/MySQL/SQLite/Redis architecture, schema design, migrations, transactional integrity, query performance, and reliable persistence for production systems. |
+| **Data Science & Analytics** | EDA, statistical analysis, feature engineering, experiment design, metrics, validation, benchmarking, and reproducible data-driven analysis. |
+| **Cloud & Production Deployment** | Containerized production systems across AWS and Microsoft Azure using Docker, Kubernetes, Nginx, CI/CD, Linux, DNS, HTTPS/TLS, reverse proxies, and cloud infrastructure. |
+| **Reliability & Observability** | Structured logging, health checks, failure analysis, idempotency, fail-closed behavior, latency testing, production debugging, and operational reliability. |
+| **Performance / GPU Systems** | GPU-accelerated ML and data processing, CUDA/MPS workloads, model serving, inference optimization, C++ performance engineering, and high-throughput pipelines. |
+| **Software & Systems Architecture** | System design, microservices, distributed components, event-driven workflows, concurrency, service boundaries, scalability, and production architecture decisions. |
+| **Hardware / Storage Systems** | Storage and system reliability for compute workflows including SMART monitoring, safe eject systems, power-connection stability, and component-level troubleshooting. |
 
 
 
