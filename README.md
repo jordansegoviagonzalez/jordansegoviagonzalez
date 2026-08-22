@@ -59,7 +59,7 @@ MiahAI — Offline, Full-Stack AI Platform for Private Learning (Private Repo)
 ## 🛠️ Technical Stack
 
 ### Languages
-- Python, C#, C++, C, CUDA, TypeScript, JavaScript, SQL, CUDA
+- Python, C#, C++, C, CUDA, TypeScript, JavaScript, SQL, 
   
 ### AI / ML Engineering
 - Machine Learning, Deep Learning, Computer Vision, NLP, Reinforcement Learning
