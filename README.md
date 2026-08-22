@@ -52,44 +52,54 @@ Clean architecture • performance • reliability
 
 ## 🛠️ Technical Stack
 
+### Languages
+- Python, C#, C++, C, CUDA, TypeScript, JavaScript, SQL, CUDA
+  
 ### AI / ML Engineering
 - Machine Learning, Deep Learning, Computer Vision, NLP, Reinforcement Learning
 - PyTorch, TensorFlow, scikit-learn, Hugging Face
-- Model Training, Fine-Tuning, Evaluation, Benchmarking, Inference & Optimization
+- Model Training, Fine-Tuning, LoRA / QLoRA, Evaluation, Benchmarking, Inference & Optimization
 - CUDA, Apple MPS, ONNX, TensorRT
-- Feature Engineering, Dataset Design, Error Analysis & Model Quality Evaluation
+- Feature Engineering, Dataset Design, Synthetic Data, Error Analysis & Model Quality Evaluation
+- Vision-Language / Multimodal Systems, Sensor Fusion & Model Serving
 
 ### Generative AI & Agentic Systems
-- LLM Applications, RAG, Agentic Workflows, Tool-Calling & AI Orchestration
-- OpenAI APIs, LangChain, LangGraph, Voice AI / Vogent
+- LLM Applications, RAG, Vector Search, Embeddings, Agentic Workflows, Tool Calling & AI Orchestration
+- OpenAI API, Gemini API, LangChain, LangGraph, LangSmith, Voice AI / Vogent
+- Azure AI Foundry, Vertex AI
 - Prompt & Rubric Evaluation, Golden Solutions, Human-in-the-Loop Workflows
-- Safety Guardrails, Deterministic Routing & Production AI Reliability
+- Hallucination Testing, Safety Guardrails, Deterministic Routing & Production AI Reliability
 
-### Languages
-- Python, C#, C++, JavaScript / TypeScript, SQL, C
+### Data Science & Evaluation
+- EDA, Feature Engineering, Experiment Design, Metrics, Validation & Error Analysis
+- Model Benchmarking, Dataset Evaluation & Reproducible Experiments
+- Pandas, NumPy, Jupyter, Google Colab
 
 ### Backend & Full-Stack Engineering
-- FastAPI, Flask, ASP.NET Core, React / TypeScript
-- REST APIs, gRPC, Authentication, Background Jobs & Service Integration
-- PostgreSQL, MySQL, SQLite, Redis
-- Software Architecture, OOP, Concurrency, Transactional Workflows
+- FastAPI, Flask, ASP.NET Core, React, Next.js
+- REST APIs, gRPC, Protocol Buffers, SSE, Streaming & Authentication
+- Background Jobs, Async Workers, Celery, Event-Driven Systems & Service Integration
+- PostgreSQL, MySQL, SQLite, Redis, Kafka
+- EF Core, Dapper
+- Software Architecture, OOP, Concurrency, Transactional Workflows & Microservices
 
 ### Cloud, DevOps & Production
 - Microsoft Azure, AWS EC2, Cloudflare
+- Azure Kubernetes Service, Azure Functions, Azure Container Apps, Key Vault
 - Docker, Docker Compose, Kubernetes, Nginx
 - CI/CD, GitHub Actions, Terraform
 - Linux / Unix, DNS, CDN, Reverse Proxies, HTTPS / TLS
 - Production Deployment, Configuration & Infrastructure Debugging
 
 ### Reliability, Testing & Observability
-- Structured Logging, Health Checks, Monitoring & Failure Analysis
+- Structured Logging, Health Checks, Monitoring, Observability & Failure Analysis
 - Idempotency, Concurrency Protection, Fail-Closed Design
 - Pytest, MyPy, Ruff, Jest, xUnit
 - Latency Testing, Reliability Testing & Production Debugging
 
 ### Computer Science & Systems
 - Algorithms, Data Structures, Graph / Search Algorithms
-- Bayesian Networks, Software Architecture & Distributed Systems
+- Bayesian Networks, Distributed Systems & Software Architecture
 - C++ Performance Engineering, GPU Computing & Model Serving
 
 ## 📬 Connect
